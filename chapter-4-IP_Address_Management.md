@@ -70,6 +70,13 @@ Cilium은 두 가지 주요 IPAM 모드를 제공한다
 - Dual-stack 환경에서의 DNS 문제
 - IPAM CRD 손상 시 복구 방법
 
+### 상세 실습 내용
+
+- Cluster-pool 모드와 Kubernetes 모드의 차이
+- IPv6-only 클러스터 구성 방법
+- Cluster Mesh에서 CIDR 설계 전략
+- 실제 운영 환경에서 추천되는 IPAM 설정
+
 ## 🧠 이 챕터가 중요한 이유
 
 - Cilium을 실제 운영 환경에서 사용하려면 IPAM을 제대로 이해해야 함.
